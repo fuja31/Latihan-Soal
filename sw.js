@@ -1,6 +1,6 @@
 /* Service worker Latihan CPNS: cache lalu perbarui di latar belakang.
    Ubah VERSI setiap kali index.html diganti agar cache lama dibersihkan. */
-const VERSI = 'latihan-cpns-v1';
+const VERSI = 'latihan-cpns-v2';
 const ASET = ['./', 'index.html', 'manifest.webmanifest',
   'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png'];
 
